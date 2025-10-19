@@ -32,4 +32,9 @@ Every step of Grape’s pipeline aligns with human hearing characteristics:
 
 The result is an audio output that *feels analog*, even though it’s completely digital.
 
+
+### Do this before running ⚠️⚠️
+
+To not get package errors before running, run `python3 venv.py`
+
 You may run it with `python driver.py`
